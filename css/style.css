@@ -1,0 +1,129 @@
+/*.navbar-brand
+{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	top: 10px;
+
+}*/
+
+body{
+	/*background-image: url(../images/img1.jpg), url(../images/jumb_img2.jpg);
+	background-repeat: no-repeat;
+	background-position: top, center;
+	background-size: contain;*/
+	background-color: black;
+}
+
+
+
+
+
+.slider{
+	position: absolute;
+	top: 35%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	
+}
+
+
+.navbar{
+
+	
+	margin-bottom:00px;
+
+
+}
+
+/* .carousel{
+	height: 50%;
+} */
+
+.btn.btn-search{
+	border-radius: 0px;
+	height: 38px;
+	width: 60px;
+	background: #3d5459;
+	color: white;
+}
+
+.ctt{
+	position: absolute;
+	/*z-index: 1;*/
+	top: 45%;
+	/* width: 100%; */
+	left: 20%;
+	transform: translate(-50%, -50%);
+	
+	
+}
+
+
+
+.cff{
+	position: absolute;
+	/*z-index: 1;*/
+	top: 45%;
+	/* width: 100%; */
+	left: 20%;
+	transform: translate(-50%, -50%);
+}
+
+
+
+
+.jumbotron {
+  background-image: url("../images/jumb_img2.jpg");
+  background-size: cover;
+  color: white;
+}
+
+.cst{
+	padding: 50px;
+}
+.custom {
+    width: 200px !important;
+
+
+}
+
+
+
+.custom2 {
+    padding: 20px !important;
+}
+
+.custom3 {
+    padding: 18px !important;
+}
+
+.headercustom {
+    padding: 10px !important;
+    color: white;
+}
+.cardpadding{
+	padding-top: 100px !important;
+
+}
+.padding_bottom{
+	padding-bottom: 30px !important;
+	
+}
+.padding_top{
+	padding-top: 30px !important;
+}
+
+.padding_top_form{
+	padding-top: 60px !important;
+	
+}
+
+
+.btn_width{
+	width: 100px !important;
+}
+
+
+
+
